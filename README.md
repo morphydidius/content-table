@@ -1,24 +1,18 @@
-# content-table
+# Content Table: таблицы с введением данных и отображением контента
 
-## Project setup
+> Проект на Vue.js с использованием Vue CLI, Vuex
+
+## Установка
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск режима разработки с hot-reload (http://localhost:8080)
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Build & minify для прода
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
